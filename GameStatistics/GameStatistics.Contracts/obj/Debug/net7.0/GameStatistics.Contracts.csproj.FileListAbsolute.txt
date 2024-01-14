@@ -1,0 +1,11 @@
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/bin/Debug/net7.0/GameStatistics.Contracts.deps.json
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/bin/Debug/net7.0/GameStatistics.Contracts.dll
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/bin/Debug/net7.0/GameStatistics.Contracts.pdb
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/obj/Debug/net7.0/GameStatistics.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/obj/Debug/net7.0/GameStatistics.Contracts.AssemblyInfoInputs.cache
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/obj/Debug/net7.0/GameStatistics.Contracts.AssemblyInfo.cs
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/obj/Debug/net7.0/GameStatistics.Contracts.csproj.CoreCompileInputs.cache
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/obj/Debug/net7.0/GameStatistics.Contracts.dll
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/obj/Debug/net7.0/refint/GameStatistics.Contracts.dll
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/obj/Debug/net7.0/GameStatistics.Contracts.pdb
+/home/rocio/CIRSA-backend/GameStatistics/GameStatistics.Contracts/obj/Debug/net7.0/ref/GameStatistics.Contracts.dll
